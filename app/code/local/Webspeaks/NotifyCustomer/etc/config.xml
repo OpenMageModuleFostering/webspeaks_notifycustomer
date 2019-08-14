@@ -19,7 +19,7 @@
 <config>
     <modules>
         <Webspeaks_NotifyCustomer>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
         </Webspeaks_NotifyCustomer>
     </modules>
     <global>
@@ -121,4 +121,11 @@
             </modules>
         </translate>
     </frontend>
+    <default>
+        <webspeaks_notifycustomer>
+            <notification>
+                <add_jquery>0</add_jquery>
+            </notification>
+        </webspeaks_notifycustomer>
+    </default>
 </config>

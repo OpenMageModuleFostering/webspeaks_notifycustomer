@@ -22,7 +22,7 @@
 
         <reference name="head">
             <action method="addCss"><stylesheet>webspeaks/notifycustomer/css/notifycustomer.css</stylesheet></action>
-            <action method="addJs"><script>webspeaks/notifycustomer/jquery-1.10.2.min.js</script></action>
+            <action method="addJs" ifconfig="webspeaks_notifycustomer/notification/add_jquery"><script>webspeaks/notifycustomer/jquery-1.10.2.min.js</script></action>
             <action method="addJs"><script>webspeaks/notifycustomer/notifycustomer.js</script></action>
         </reference>
 
