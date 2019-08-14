@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Webspeaks_Notifycustomer",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Notify Customer is simple extension that allows store owner to send notifications and messages to individual customers.
+",
+    "authors": [
+    {
+        "name": "Arvind Bhardwaj",
+        "email": "bhardwajsonheight@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
