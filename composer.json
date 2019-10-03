@@ -1,5 +1,7 @@
 {
     "keywords": [
         "openmage-module"
-    ]
+    ],
+    "name": "openmage-module-fostering\/webspeaks_notifycustomer",
+    "license": "OSL-3.0"
 }
